@@ -11,7 +11,7 @@ In this notebook, I made an exploratory data analysis and a regressional analysi
  - used bivariate data analysis to **select 3 features that are correlated with global sale of a video game**, and 
  - evaluated **5 regression algorithms** and **predicted video game sales** using Random Forest Regressor. 
  
-After selecting appropriate features and tuning the parameters, the model achieves a mean suqared error of 3.17. 
+After selecting appropriate features and tuning the parameters, the model achieves a **mean suqared error of 3.17**. 
  
 ## EDA Samples
 
